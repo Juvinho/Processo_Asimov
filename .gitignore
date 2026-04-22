@@ -1,4 +1,5 @@
 node_modules/
+.npm-cache-temp/
 build/
 .env
 .env.local
